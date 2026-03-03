@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel Maia!
 
-### Desenvolvedor de Software | Backend Specialist | Data Enthusiast
+### Desenvolvedor de Software | Backend | Data Enthusiast
 
 Com 3 anos de experiência no mercado de tecnologia, foco minha carreira na construção de ecossistemas de backend robustos, escaláveis e resilientes. Sou um entusiasta de boas práticas de programação, aplicando **Clean Code**, **SOLID** e padrões de arquitetura para entregar código de alta qualidade e fácil manutenção.
 
